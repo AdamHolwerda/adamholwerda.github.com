@@ -1,0 +1,25 @@
+{
+  "name": "layemout",
+  "description": "An HTML5 comic book/strip layout and editing app",
+  "version": "0.1.0",
+  "homepage": "https://github.com/AdamHolwerda/layemout",
+  "author": {
+    "name": "Adam Holwerda",
+    "email": "adamholwerda@gmail.com",
+    "url": "adamholwerda.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AdamHolwerda/layemout.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/AdamHolwerda/layemout/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "node-build-script": "http://nodeload.github.com/h5bp/node-build-script/tarball/dev"
+  },
+  "keywords": []
+}
